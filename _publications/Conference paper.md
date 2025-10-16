@@ -7,6 +7,6 @@ excerpt: 'A Swedish case study integrating transport and energy systems to asses
 date: 2025-07-03
 venue: '10th Asia Conference on Power and Electrical Engineering (ACPEE), Beijing, China'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/11041568'
 citation: 'S. Jin and T. Thiringer, "Transport-Energy Integration Driven Pathways for Electromobility: A Swedish Case Study," 2025 10th Asia Conference on Power and Electrical Engineering (ACPEE), Beijing, China, 2025, 2676-2682, doi: 10.1109/ACPEE64358.2025.11041568.'
 ---
