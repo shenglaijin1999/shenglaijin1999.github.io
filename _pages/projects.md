@@ -48,3 +48,20 @@ This undergraduate research project involved analyzing EEG signals to extract SS
 *2020, Beijing Jiaotong University*  
 
 The project focused on developing multi-dimensional evaluation metrics for coordinated dispatch of wind farm clusters. By integrating grid topology, equipment performance, and output forecasting, I designed strategies for improving utilization and reliability. It was through this project that I learned optimization is not about perfection but about balance, and that system stability often depends on carefully negotiated trade-offs.  
+
+---
+
+---
+
+## ☁️ Renewable Energy Consumption Evaluation for North Hebei Grid  
+*2019–2020, State Grid Project, North Hebei, China*  
+
+This project served as the groundwork for my later research on wind farm dispatch and system coordination. Using the New Energy Cloud Platform, I collected and structured power-system data across renewable generation sites, substations, and regional load centers. Through time-series analysis and curtailment diagnostics, I evaluated renewable consumption efficiency and grid integration potential. It was also my first realization that technical insight must evolve from a system-level perspective rather than isolated performance metrics.  
+
+---
+
+## 🌐 Smart-Grid “Soft Connection” and Cross-Border Trading Model  
+*2017–2018, Global Energy Interconnection Study*  
+
+This was my first exposure to research and the moment I began to see electricity as more than a technical system. The concept of “soft connection” introduced me to the idea that energy transition requires not only engineering solutions but also coordination across social, political, environmental, and economic domains. The experience opened a lasting awareness that energy systems are as much about governance and cooperation as they are about circuits and power flows.  
+
