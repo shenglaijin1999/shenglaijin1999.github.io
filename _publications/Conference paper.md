@@ -3,10 +3,10 @@ title: "Transport–Energy Integration Driven Pathways for Electromobility: A Sw
 collection: publications
 category: manuscripts
 permalink: /publication/Conference paper
-excerpt: 'A Swedish case study integrating transport and energy systems to assess grid impact and infrastructure needs for nationwide electromobility.'
+excerpt: 'A Swedish case study integrating transport and energy systems to assess grid impact and infrastructure needs for nationwide electromobility. This paper presents a **Swedish transport–energy integration model** linking vehicle electrification pathways with grid demand. Traffic flow data, battery consumption statistics, and Monte Carlo simulations were used to quantify charging demand and power system impacts across four Swedish energy zones (SE1–SE4). Results highlight regional imbalances and propose optimized infrastructure placement for large-scale EV adoption.'
 date: 2025-07-03
-venue: 'Journal 1'
+venue: '10th Asia Conference on Power and Electrical Engineering (ACPEE), Beijing, China'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'S. Jin and T. Thiringer, "Transport-Energy Integration Driven Pathways for Electromobility: A Swedish Case Study," 2025 10th Asia Conference on Power and Electrical Engineering (ACPEE), Beijing, China, 2025, 2676-2682, doi: 10.1109/ACPEE64358.2025.11041568.'
 ---
