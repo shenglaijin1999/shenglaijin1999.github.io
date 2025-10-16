@@ -11,20 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "News"
-    url: /news/
-
-  - title: "Project Experience"
-    url: /project/
-
-  - title: "Educations"
-    url: /education/
-
-  - title: "Honors and Awards"
-    url: /awards/
-
-  - title: "My Life"
-     url: /life/
 
   #- title: "Talks"
    # url: /talks/
