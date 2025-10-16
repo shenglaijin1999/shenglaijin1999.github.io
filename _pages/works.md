@@ -5,10 +5,6 @@ permalink: /works/
 author_profile: true
 ---
 
-# 💼 Work Experience
-
----
-
 ## 🏅 Delegation Attaché, Swedish University Sports Federation (FISU)  
 *Apr 2025 – Jul 2025, Reine-Rhur, Germany*  
 
