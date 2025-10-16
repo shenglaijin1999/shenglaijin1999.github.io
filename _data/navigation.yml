@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "Project Experiences"
-   url: /project/
+     url: /project/
 
 
   #- title: "Talks"
