@@ -13,28 +13,34 @@ I believe every meaningful research journey is also a journey of life, and these
 </blockquote>
 
 <!-- ======= PHOTO BLOCK 1 ======= -->
-<figure style="width: 60%; margin: 40px auto; text-align: left;">
-  <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
-    🎓 I graduated from Beijing Jiaotong University.
-  </figcaption>
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      🎓 I graduated from Beijing Jiaotong University.
+    </p>
+  </div>
   <img src="/images/gallery/graduation from BJTU.JPG" 
-       alt="Graduation from Beijing Jiaotong University" 
-       style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+       alt="Graduation from Beijing Jiaotong University"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
               transition: transform 0.3s ease, filter 0.3s ease;">
-</figure>
+</div>
 
 <!-- ======= PHOTO BLOCK 2 ======= -->
-<figure style="width: 60%; margin: 40px auto; text-align: left;">
-  <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
-    🎓 With my professor Torbjörn Thiringer!
-  </figcaption>
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      🎓 With my professor Torbjörn Thiringer!
+    </p>
+  </div>
   <img src="/images/gallery/with-professor.jpeg" 
-       alt="With my professor Torbjörn Thiringer" 
-       style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+       alt="With Professor Torbjörn Thiringer at Chalmers University"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
               transition: transform 0.3s ease, filter 0.3s ease;">
-</figure>
+</div>
 
-<!-- ======= STYLE SECTION ======= -->
+<!-- ======= STYLE ======= -->
 <style>
   img:hover {
     transform: scale(1.02);
@@ -42,8 +48,11 @@ I believe every meaningful research journey is also a journey of life, and these
   }
 
   @media (max-width: 768px) {
-    figure {
-      width: 95% !important;
+    div[style*="width: 60%"] {
+      width: 90% !important;
+    }
+    div[style*="margin-left: -20%"] {
+      margin-left: 0 !important;
     }
   }
 </style>
