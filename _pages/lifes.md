@@ -18,7 +18,7 @@ I believe every meaningful research journey is also a journey of life, and these
       display: flex;
       align-items: center;
       margin-bottom: 15px;
-      margin-left: 8%;
+      margin-left: 0;
     ">
     <div style="
         width: 5px;
@@ -37,7 +37,6 @@ I believe every meaningful research journey is also a journey of life, and these
       🎓 Academic Journey
     </h2>
   </div>
-
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
 
   
@@ -75,7 +74,7 @@ I believe every meaningful research journey is also a journey of life, and these
       display: flex;
       align-items: center;
       margin-bottom: 15px;
-      margin-left: 8%;
+      margin-left: 0;
     ">
     <div style="
         width: 5px;
@@ -87,22 +86,41 @@ I believe every meaningful research journey is also a journey of life, and these
     <h2 style="
         font-size: 1.35em;
         font-weight: 600;
-        color: #2c3e50;
+        color: #3aa6d0;
         margin: 0;
         letter-spacing: 0.5px;
       ">
       🌲 Nature and Outdoor Moments
     </h2>
   </div>
-
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
 
-<!-- ====== Section 3: Social and Cultural Experience ====== -->
-<div style="margin-top: 60px;">
-  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #f39c12; padding-left: 12px; margin-bottom: 25px;">
-    🌍 Social and Cultural Experience
-  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
-  </h2>  
+<!-- ====== Section 3: Social and Cultural Experiences ====== -->
+<div style="margin-top: 50px;">
+  <div style="
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      margin-left: 0;
+    ">
+    <div style="
+        width: 5px;
+        height: 26px;
+        background-color: #2c3e50;
+        border-radius: 2px;
+        margin-right: 10px;
+      "></div>
+    <h2 style="
+        font-size: 1.35em;
+        font-weight: 600;
+        color: #f39c12;
+        margin: 0;
+        letter-spacing: 0.5px;
+      ">
+      🌍 Social and Cultural Experience
+    </h2>
+  </div>
+  <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
   
 
 <!-- ======= STYLE ======= -->
