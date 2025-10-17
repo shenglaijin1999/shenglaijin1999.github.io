@@ -79,14 +79,14 @@ I believe every meaningful research journey is also a journey of life, and these
     <div style="
         width: 5px;
         height: 26px;
-        background-color: #2c3e50;
+        background-color: #3aa6d0;
         border-radius: 2px;
         margin-right: 10px;
       "></div>
     <h2 style="
         font-size: 1.35em;
         font-weight: 600;
-        color: #3aa6d0;
+        color: #2c3e50;
         margin: 0;
         letter-spacing: 0.5px;
       ">
@@ -106,14 +106,14 @@ I believe every meaningful research journey is also a journey of life, and these
     <div style="
         width: 5px;
         height: 26px;
-        background-color: #2c3e50;
+        background-color: #f39c12;
         border-radius: 2px;
         margin-right: 10px;
       "></div>
     <h2 style="
         font-size: 1.35em;
         font-weight: 600;
-        color: #f39c12;
+        color: #2c3e50;
         margin: 0;
         letter-spacing: 0.5px;
       ">
