@@ -12,11 +12,18 @@ I believe every meaningful research journey is also a journey of life, and these
   "Every meaningful research journey is also a journey through life."
 </blockquote>
 
+<!-- ====== Section 1: Academic Journey ====== -->
+<div style="margin-top: 60px;">
+  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #a26dd0; padding-left: 12px; margin-bottom: 25px;">
+    🎓 Academic Journey
+  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
+  </h2>
+  
 <!-- ======= PHOTO BLOCK 1 ======= -->
 <div style="width: 60%; margin: 50px auto;">
   <div style="text-align: left; margin-left: -20%;">
     <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      🎓 I graduated from Beijing Jiaotong University.
+      · I graduated from Beijing Jiaotong University.
     </p>
   </div>
   <img src="/images/gallery/graduation from BJTU.JPG" 
@@ -30,7 +37,7 @@ I believe every meaningful research journey is also a journey of life, and these
 <div style="width: 60%; margin: 50px auto;">
   <div style="text-align: left; margin-left: -20%;">
     <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      🎓 With my professor Torbjörn Thiringer!
+      · With my professor Torbjörn Thiringer!
     </p>
   </div>
   <img src="/images/gallery/with-professor.jpeg" 
@@ -39,6 +46,21 @@ I believe every meaningful research journey is also a journey of life, and these
               box-shadow: 0 6px 16px rgba(0,0,0,0.15);
               transition: transform 0.3s ease, filter 0.3s ease;">
 </div>
+
+<!-- ====== Section 2: Nature and Outdoor Moments ====== -->
+<div style="margin-top: 50px;">
+  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #3aa6d0; padding-left: 12px; margin-bottom: 25px;">
+    🌲 Nature and Outdoor Moments
+  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
+  </h2>
+
+<!-- ====== Section 3: Social and Cultural Experience ====== -->
+<div style="margin-top: 60px;">
+  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #f39c12; padding-left: 12px; margin-bottom: 25px;">
+    🌍 Social and Cultural Experience
+  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
+  </h2>  
+  
 
 <!-- ======= STYLE ======= -->
 <style>
