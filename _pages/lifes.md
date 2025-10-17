@@ -68,6 +68,21 @@ I believe every meaningful research journey is also a journey of life, and these
               transition: transform 0.3s ease, filter 0.3s ease;">
 </div>
 
+<!-- ======= PHOTO BLOCK 3 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · Attend academical meeting in Beijing.
+    </p>
+  </div>
+  <img src="/images/gallery/academic-meeting.JPG" 
+       alt="Attend academical meeeting"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
+
+
 <!-- ====== Section 2: Nature and Outdoor Moments ====== -->
 <div style="margin-top: 50px;">
   <div style="
@@ -94,6 +109,36 @@ I believe every meaningful research journey is also a journey of life, and these
     </h2>
   </div>
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
+
+<!-- ====== Part 1: Into Nature ====== -->
+<div style="margin-top: 60px;">
+  <p style="
+      margin: 0 auto 25px auto;
+      color: #444;
+      font-size: 1em;
+      font-style: italic;
+      text-align: center;
+      max-width: 80%;
+    ">
+    I enjoy walking through the quiet forests and along mountain trails, feeling the craftsmanship of nature and the harmony between tranquility and vitality.
+  </p>
+
+</div>
+
+  <!-- 4-Grid Image Layout -->
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      justify-items: center;
+      margin-top: 20px;
+    ">
+    <img src="/images/gallery/faroe.jpg" alt="Forest trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/svalbard.JPG" alt="Mountain lake" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/dormite.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/iceland.jpeg" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  </div>
+</div>
 
 <!-- ====== Section 3: Social and Cultural Experiences ====== -->
 <div style="margin-top: 50px;">
