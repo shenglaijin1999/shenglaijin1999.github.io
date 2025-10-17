@@ -12,7 +12,7 @@ I believe every meaningful research journey is also a journey of life, and these
   "Every meaningful research journey is also a journey through life."
 </blockquote>
 
-<!-- ====== Section: Academic Journey ====== -->
+<!-- ====== Section 1: Social and Cultural Experiences ====== -->
 <div style="margin-top: 50px;">
   <div style="
       display: flex;
@@ -23,7 +23,7 @@ I believe every meaningful research journey is also a journey of life, and these
     <div style="
         width: 5px;
         height: 26px;
-        background-color: #8e44ad;
+        background-color: #f39c12;
         border-radius: 2px;
         margin-right: 10px;
       "></div>
@@ -34,66 +34,24 @@ I believe every meaningful research journey is also a journey of life, and these
         margin: 0;
         letter-spacing: 0.5px;
       ">
-      🎓 Academic Journey
+      🌍 Social and Cultural Experience
     </h2>
   </div>
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
 
-  
-<!-- ======= PHOTO BLOCK 1 ======= -->
-<div style="width: 60%; margin: 50px auto;">
-  <div style="text-align: left; margin-left: -20%;">
-    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      · I graduated from Beijing Jiaotong University.
-    </p>
+    <!-- 4-Grid Image Layout -->
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      justify-items: center;
+      margin-top: 20px;
+    ">
+    <img src="/images/gallery/delegation attache.JPG" alt="Volunteer with Swedish team" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/WFUNA.JPG" alt="Internship in Switzerland" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/food with friends.JPG" alt="Homemade Barbecue" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    #<img src="/images/gallery/dorm.JPG" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
-  <img src="/images/gallery/graduation from BJTU.JPG" 
-       alt="Graduation from Beijing Jiaotong University"
-       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
-              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-              transition: transform 0.3s ease, filter 0.3s ease;">
-</div>
-
-<!-- ======= PHOTO BLOCK 2 ======= -->
-<div style="width: 60%; margin: 50px auto;">
-  <div style="text-align: left; margin-left: -20%;">
-    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      · With my professor Torbjörn Thiringer!
-    </p>
-  </div>
-  <img src="/images/gallery/with-professor.jpeg" 
-       alt="With Professor Torbjörn Thiringer at Chalmers University"
-       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
-              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-              transition: transform 0.3s ease, filter 0.3s ease;">
-</div>
-
-<!-- ======= PHOTO BLOCK 3 ======= -->
-<div style="width: 60%; margin: 50px auto;">
-  <div style="text-align: left; margin-left: -20%;">
-    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      · Attend academical meeting in Beijing.
-    </p>
-  </div>
-  <img src="/images/gallery/academic-meeting.JPG" 
-       alt="Attend academical meeeting"
-       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
-              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-              transition: transform 0.3s ease, filter 0.3s ease;">
-</div>
-
-<!-- ======= PHOTO BLOCK 4 ======= -->
-<div style="width: 60%; margin: 50px auto;">
-  <div style="text-align: left; margin-left: -20%;">
-    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
-      · Graduate from Chalmers.
-    </p>
-  </div>
-  <img src="/images/gallery/graduate from Chalmers.jpg" 
-       alt="Chalmers"
-       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
-              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
-              transition: transform 0.3s ease, filter 0.3s ease;">
 </div>
 
 
@@ -182,10 +140,9 @@ I believe every meaningful research journey is also a journey of life, and these
     <img src="/images/gallery/barcelona.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/dorm.JPG" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
-</div>
+</div>  
 
-
-<!-- ====== Section 3: Social and Cultural Experiences ====== -->
+<!-- ====== Section: Academic Journey ====== -->
 <div style="margin-top: 50px;">
   <div style="
       display: flex;
@@ -196,7 +153,7 @@ I believe every meaningful research journey is also a journey of life, and these
     <div style="
         width: 5px;
         height: 26px;
-        background-color: #f39c12;
+        background-color: #8e44ad;
         border-radius: 2px;
         margin-right: 10px;
       "></div>
@@ -207,11 +164,67 @@ I believe every meaningful research journey is also a journey of life, and these
         margin: 0;
         letter-spacing: 0.5px;
       ">
-      🌍 Social and Cultural Experience
+      🎓 Academic Journey
     </h2>
   </div>
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
+
   
+<!-- ======= PHOTO BLOCK 1 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · I graduated from Beijing Jiaotong University.
+    </p>
+  </div>
+  <img src="/images/gallery/graduation from BJTU.JPG" 
+       alt="Graduation from Beijing Jiaotong University"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
+
+<!-- ======= PHOTO BLOCK 2 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · With my professor Torbjörn Thiringer!
+    </p>
+  </div>
+  <img src="/images/gallery/with-professor.jpeg" 
+       alt="With Professor Torbjörn Thiringer at Chalmers University"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
+
+<!-- ======= PHOTO BLOCK 3 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · Attend academical meeting in Beijing.
+    </p>
+  </div>
+  <img src="/images/gallery/academic-meeting.JPG" 
+       alt="Attend academical meeeting"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
+
+<!-- ======= PHOTO BLOCK 4 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · Graduate from Chalmers.
+    </p>
+  </div>
+  <img src="/images/gallery/graduate from Chalmers.jpg" 
+       alt="Chalmers"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
 
 <!-- ======= STYLE ======= -->
 <style>
