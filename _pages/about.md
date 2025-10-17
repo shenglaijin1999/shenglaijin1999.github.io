@@ -21,11 +21,14 @@ Beyond research, I enjoy hiking, exploring natural landscapes, and immersing mys
 
 ## ⚙️ Core Skills and Expertise
 
-| Research Focus | Computational Skills | Tools & Frameworks |
-|-----------------|----------------------|--------------------|
-| Energy system modeling and optimization | Python, MATLAB, Julia | Gurobi, PyTorch, COMSOL, QGIS |
-| EV-grid integration and V2G analysis | PyTorch, NumPy, Pandas | Git, LaTeX, ArcGIS |
-| Multi-energy coupling and digital twin | MILP, CVaR, Monte Carlo | PowerFactory, HOMER, Simulink |
+<div style="width: 60%; margin: 50px auto;">
+  </div>
+  <img src="/images/gallery/myself.png" 
+       alt="Chalmers"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
 
 ---
 
