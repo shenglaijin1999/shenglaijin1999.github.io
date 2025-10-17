@@ -82,6 +82,20 @@ I believe every meaningful research journey is also a journey of life, and these
               transition: transform 0.3s ease, filter 0.3s ease;">
 </div>
 
+<!-- ======= PHOTO BLOCK 4 ======= -->
+<div style="width: 60%; margin: 50px auto;">
+  <div style="text-align: left; margin-left: -20%;">
+    <p style="font-size: 0.95em; color: #444; font-weight: 500; margin-bottom: 10px;">
+      · Graduate from Chalmers.
+    </p>
+  </div>
+  <img src="/images/gallery/graduate from Chalmers.jpg" 
+       alt="Chalmers"
+       style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
+              box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</div>
+
 
 <!-- ====== Section 2: Nature and Outdoor Moments ====== -->
 <div style="margin-top: 50px;">
