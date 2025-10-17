@@ -13,7 +13,7 @@ I believe every meaningful research journey is also a journey of life, and these
 </blockquote>
 
 <!-- ======= PHOTO BLOCK 1 ======= -->
-<figure style="width: 80%; margin: 40px auto; text-align: left;">
+<figure style="width: 60%; margin: 40px auto; text-align: left;">
   <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
     🎓 I graduated from Beijing Jiaotong University.
   </figcaption>
@@ -24,7 +24,7 @@ I believe every meaningful research journey is also a journey of life, and these
 </figure>
 
 <!-- ======= PHOTO BLOCK 2 ======= -->
-<figure style="width: 80%; margin: 40px auto; text-align: left;">
+<figure style="width: 60%; margin: 40px auto; text-align: left;">
   <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
     🎓 With my professor Torbjörn Thiringer!
   </figcaption>
