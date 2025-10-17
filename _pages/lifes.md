@@ -12,12 +12,34 @@ I believe every meaningful research journey is also a journey of life, and these
   "Every meaningful research journey is also a journey through life."
 </blockquote>
 
-<!-- ====== Section 1: Academic Journey ====== -->
-<div style="margin-top: 60px;">
-  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #a26dd0; padding-left: 12px; margin-bottom: 25px;">
-    🎓 Academic Journey
-  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
-  </h2>
+<!-- ====== Section: Academic Journey ====== -->
+<div style="margin-top: 50px;">
+  <div style="
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      margin-left: 8%;
+    ">
+    <div style="
+        width: 5px;
+        height: 26px;
+        background-color: #8e44ad;
+        border-radius: 2px;
+        margin-right: 10px;
+      "></div>
+    <h2 style="
+        font-size: 1.35em;
+        font-weight: 600;
+        color: #2c3e50;
+        margin: 0;
+        letter-spacing: 0.5px;
+      ">
+      🎓 Academic Journey
+    </h2>
+  </div>
+
+  <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
+
   
 <!-- ======= PHOTO BLOCK 1 ======= -->
 <div style="width: 60%; margin: 50px auto;">
@@ -49,10 +71,31 @@ I believe every meaningful research journey is also a journey of life, and these
 
 <!-- ====== Section 2: Nature and Outdoor Moments ====== -->
 <div style="margin-top: 50px;">
-  <h2 style="font-size: 1.6em; font-weight: 600; color: #2c3e50; border-left: 6px solid #3aa6d0; padding-left: 12px; margin-bottom: 25px;">
-    🌲 Nature and Outdoor Moments
-  <hr style="width: 80%; border: 0; border-top: 1px solid #ddd; margin: 40px auto;">
-  </h2>
+  <div style="
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      margin-left: 8%;
+    ">
+    <div style="
+        width: 5px;
+        height: 26px;
+        background-color: #2c3e50;
+        border-radius: 2px;
+        margin-right: 10px;
+      "></div>
+    <h2 style="
+        font-size: 1.35em;
+        font-weight: 600;
+        color: #2c3e50;
+        margin: 0;
+        letter-spacing: 0.5px;
+      ">
+      🌲 Nature and Outdoor Moments
+    </h2>
+  </div>
+
+  <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
 
 <!-- ====== Section 3: Social and Cultural Experience ====== -->
 <div style="margin-top: 60px;">
