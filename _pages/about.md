@@ -8,18 +8,33 @@ redirect_from:
 ---
 
 Welcome to my homepage!  
-I am **Shenglai Jin**, a researcher devoted to exploring the pathways of **energy transition and sustainable mobility**.  
-My academic background lies in *Sustainable Electric Power Engineering and Electromobility* at **Chalmers University of Technology**, with additional exchange experience at the **Technical University of Munich**.  
-My work focuses on the integration of **electric vehicles, renewable energy, and power systems**, aiming to enhance system flexibility and resilience through interdisciplinary modeling.
-My research interests center on **vehicle-to-grid (V2G) integration**, **energy system optimization**, and **multi-objective decision-making** for sustainable infrastructure.  
-I am passionate about understanding how technological innovation, environmental science, and human behavior can be combined to support a cleaner and more efficient energy future.
+I’m **Shenglai Jin**, a researcher devoted to advancing the transformation of energy and mobility systems toward sustainability.  
+My academic background spans *Electrical Engineering* and *Sustainable Electric Power Engineering & Electromobility* at **Chalmers University of Technology**, with exchange experience at the **Technical University of Munich**.  
 
-Outside research, I enjoy immersing myself in nature and discovering new cultures. Those experiences continually broaden my perspective and inspire creative thinking in my academic work.  
+My work focuses on the intersection of **electric vehicles**, **renewable energy**, and **power system optimization** — aiming to enhance flexibility, resilience, and efficiency in future low-carbon infrastructures.  
 
-**Research Interests:**  
-- Energy transition and sustainability  
-- Electric vehicle and grid integration (V2G)  
-- Transport–energy coupling and flexibility modeling  
-- Multi-energy systems and optimization  
+> “Technology connects systems, but curiosity connects people and the planet.”
+
+Beyond research, I enjoy hiking, exploring natural landscapes, and immersing myself in diverse cultures that continually broaden my view of sustainability and life.
+
+---
+
+## ⚙️ Core Skills and Expertise
+
+| Research Focus | Computational Skills | Tools & Frameworks |
+|-----------------|----------------------|--------------------|
+| Energy system modeling and optimization | Python, MATLAB, Julia | Gurobi, PyTorch, COMSOL, QGIS |
+| EV-grid integration and V2G analysis | PyTorch, NumPy, Pandas | Git, LaTeX, ArcGIS |
+| Multi-energy coupling and digital twin | MILP, CVaR, Monte Carlo | PowerFactory, HOMER, Simulink |
+
+---
+
+## 🌿 Beyond Research
+
+Outside the lab, I find balance in **nature and culture**.  
+I enjoy hiking across Sweden’s forests and archipelagos 🌲, photographing moments of quiet harmony 📸,  
+and discovering the unique rhythm of cities around the world 🌍.
+
+> “Every meaningful research journey is also a journey through life.”
 
 **Contact:** [shenglai.jin@outlook.com](mailto:shenglai.jin@outlook.com)
