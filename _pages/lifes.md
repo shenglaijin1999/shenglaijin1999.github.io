@@ -140,6 +140,37 @@ I believe every meaningful research journey is also a journey of life, and these
   </div>
 </div>
 
+<!-- ====== Part 2: Cultural Strolls ====== -->
+<div style="margin-top: 60px;">
+  <p style="
+      margin: 0 auto 25px auto;
+      color: #444;
+      font-size: 1em;
+      font-style: italic;
+      text-align: center;
+      max-width: 80%;
+    ">
+    I also love wandering through cities with friends, feeling the rhythm of life and the blend of diverse cultures that shape our shared world.
+  </p>
+
+</div>
+
+  <!-- 4-Grid Image Layout -->
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      justify-items: center;
+      margin-top: 20px;
+    ">
+    <img src="/images/gallery/azores.JPG" alt="Forest trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/changbai.JPG" alt="Mountain lake" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/barcelona.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/iceland.jpeg" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  </div>
+</div>
+
+
 <!-- ====== Section 3: Social and Cultural Experiences ====== -->
 <div style="margin-top: 50px;">
   <div style="
