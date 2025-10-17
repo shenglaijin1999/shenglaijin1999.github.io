@@ -1,0 +1,48 @@
+.masthead {
+  background-color: #ffffff;           /* 白色背景 */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);  /* 轻微阴影 */
+  transition: all 0.3s ease-in-out;   /* 平滑过渡 */
+  z-index: 1000;                      /* 防止被内容覆盖 */
+}
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.masthead__menu-item a {
+  font-weight: 500;
+  color: #1e293b;
+  letter-spacing: 0.02em;
+  padding: 10px 14px;
+  border-bottom: 2px solid transparent;
+  transition: all 0.25s ease;
+  border-radius: 6px;
+}
+
+.masthead__menu-item a:hover {
+  color: #005f73;                            /* 深绿色文字 */
+  border-bottom: 2px solid #0a9396;          /* 渐变底线 */
+  background-color: rgba(10, 147, 150, 0.05);/* 背景轻高亮 */
+}
+
+.masthead__menu-item--active a {
+  color: #005f73;
+  border-bottom: 2px solid #0a9396;
+  background-color: rgba(10, 147, 150, 0.05);
+}
+
+/* 响应式优化：小屏幕下缩小间距 */
+@media (max-width: 768px) {
+  .masthead__menu {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .masthead__menu-item a {
+    padding: 8px 10px;
+    font-size: 0.95em;
+  }
+}
