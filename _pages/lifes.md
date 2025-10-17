@@ -133,9 +133,9 @@ I believe every meaningful research journey is also a journey of life, and these
       justify-items: center;
       margin-top: 20px;
     ">
-    <img src="/images/gallery/faroe.jpg" alt="Forest trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-    <img src="/images/gallery/svalbard.JPG" alt="Mountain lake" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-    <img src="/images/gallery/dormite.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/faroe.jpg" alt="Faroe Island" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/svalbard.JPG" alt="The northest world" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/aurora.jpeg" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/iceland.jpeg" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
 </div>
@@ -166,7 +166,7 @@ I believe every meaningful research journey is also a journey of life, and these
     <img src="/images/gallery/azores.JPG" alt="Forest trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/changbai.JPG" alt="Mountain lake" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/barcelona.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-    <img src="/images/gallery/iceland.jpeg" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/dorm.JPG" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
 </div>
 
