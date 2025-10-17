@@ -48,9 +48,8 @@ I believe every meaningful research journey is also a journey of life, and these
       margin-top: 20px;
     ">
     <img src="/images/gallery/delegation attache.JPG" alt="Volunteer with Swedish team" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-    <img src="/images/gallery/WFUNA.JPG" alt="Internship in Switzerland" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/WFUNA.jpeg" alt="Internship in Switzerland" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/food with friends.JPG" alt="Homemade Barbecue" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-    #<img src="/images/gallery/dorm.JPG" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
 </div>
 
