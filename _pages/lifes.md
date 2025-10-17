@@ -176,7 +176,7 @@ I believe every meaningful research journey is also a journey of life, and these
       · I graduated from Beijing Jiaotong University.
     </p>
   </div>
-  <img src="/images/gallery/graduation from BJTU.JPG" 
+  <img src="/images/gallery/graduate from BJTU.JPG" 
        alt="Graduation from Beijing Jiaotong University"
        style="width: 100%; display: block; margin: 0 auto; border-radius: 12px;
               box-shadow: 0 6px 16px rgba(0,0,0,0.15);
