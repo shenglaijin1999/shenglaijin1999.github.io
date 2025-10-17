@@ -6,10 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!  
-I’m **Shenglai Jin**, a researcher devoted to advancing the transformation of energy and mobility systems toward sustainability.  
+Welcome to my homepage! 
+
 My academic background spans *Electrical Engineering* and *Sustainable Electric Power Engineering & Electromobility* at **Chalmers University of Technology**, with exchange experience at the **Technical University of Munich**.  
-My work focuses on the intersection of **electric vehicles**, **renewable energy**, and **power system optimization** — aiming to enhance flexibility, resilience, and efficiency in future low-carbon infrastructures.  
+My work focuses on the intersection of **electric vehicles**, **renewable energy**, and **power system optimization**. I aim to enhance flexibility, resilience, and efficiency in future low-carbon infrastructures.  
 
 > “Technology connects systems, but curiosity connects people and the planet.”
 
