@@ -12,44 +12,38 @@ I believe every meaningful research journey is also a journey of life, and these
   "Every meaningful research journey is also a journey through life."
 </blockquote>
 
-<!-- Gallery Container -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 30px; margin-top: 40px;">
+<!-- ======= PHOTO BLOCK 1 ======= -->
+<figure style="width: 80%; margin: 40px auto; text-align: left;">
+  <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
+    🎓 I graduated from Beijing Jiaotong University.
+  </figcaption>
+  <img src="/images/gallery/graduation from BJTU.JPG" 
+       alt="Graduation from Beijing Jiaotong University" 
+       style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</figure>
 
-  <!-- Photo 1 -->
-  <figure style="flex: 1 1 45%; max-width: 48%; margin: 0 auto;">
-    <figcaption style="font-size: 0.95em; font-weight: 500; color: #444; text-align: left; margin-bottom: 8px;">
-      I graduated from Beijing Jiaotong University.
-    </figcaption>
-    <img src="/images/gallery/graduation from BJTU.JPG" 
-         alt="Graduation from Beijing Jiaotong University" 
-         style="width: 80%; height: auto; display: block; margin: 0 auto; border-radius: 10px; 
-                box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-  </figure>
+<!-- ======= PHOTO BLOCK 2 ======= -->
+<figure style="width: 80%; margin: 40px auto; text-align: left;">
+  <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
+    🌲 Hiking through the forests near Gothenburg.
+  </figcaption>
+  <img src="/images/gallery/graduation from BJTU.JPG" 
+       alt="Hiking through the forests near Gothenburg" 
+       style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+              transition: transform 0.3s ease, filter 0.3s ease;">
+</figure>
 
-  <!-- Photo 2 -->
-  <figure style="flex: 1 1 45%; max-width: 48%; margin: 0 auto;">
-    <figcaption style="font-size: 0.95em; font-weight: 500; color: #444; text-align: left; margin-bottom: 8px;">
-      Hiking through the forests near Gothenburg.
-    </figcaption>
-    <img src="/images/gallery/graduation from BJTU.JPG" 
-         alt="Hiking near Gothenburg" 
-         style="width: 80%; height: auto; display: block; margin: 0 auto; border-radius: 10px; 
-                box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
-  </figure>
-
-</div>
-
-<!-- Hover Effect -->
+<!-- ======= STYLE SECTION ======= -->
 <style>
   img:hover {
-    transform: scale(1.03);
+    transform: scale(1.02);
+    filter: brightness(1.05);
   }
 
-  /* Responsive Design */
   @media (max-width: 768px) {
-    div[style*="display: flex"] figure {
-      max-width: 100%;
-      flex: 1 1 100%;
+    figure {
+      width: 95% !important;
     }
   }
 </style>
