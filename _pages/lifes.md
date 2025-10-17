@@ -28,7 +28,7 @@ I believe every meaningful research journey is also a journey of life, and these
   <figcaption style="font-size: 0.95em; color: #444; margin-bottom: 10px; font-weight: 500;">
     🎓 With my professor Torbjörn Thiringer!
   </figcaption>
-  <img src="/images/gallery/graduation from BJTU.JPG" 
+  <img src="/images/gallery/with-professor.jpeg" 
        alt="With my professor Torbjörn Thiringer" 
        style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);
               transition: transform 0.3s ease, filter 0.3s ease;">
