@@ -134,12 +134,11 @@ I believe every meaningful research journey is also a journey of life, and these
       justify-items: center;
       margin-top: 20px;
     ">
-    <img src="/images/gallery/azores.JPG" alt="Forest trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+    <img src="/images/gallery/azores.JPG" alt="Drone Picture" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/changbai.JPG" alt="Mountain lake" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/barcelona.JPG" alt="Sunset in the valley" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
     <img src="/images/gallery/dorm.JPG" alt="Hiking trail" style="width: 90%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-  </div>
-</div>  
+  </div> 
 
 <!-- ====== Section: Academic Journey ====== -->
 <div style="margin-top: 50px;">
