@@ -19,13 +19,13 @@ My work focuses on the intersection of <strong style="color:#006d77;">electric v
 I aim to enhance <em>flexibility</em>, <em>resilience</em>, and <em>efficiency</em> in future low-carbon infrastructures.
 </p>
 
-<blockquote style="border-left: 3px solid #b0bec5; padding-left: 1em; color:#555; font-style:italic; margin: 1.2em 0;">
+<blockquote style="text-align:right; font-style:italic; color:#707070; margin-top:1.5em;">
 “Technology connects systems, but curiosity connects people and the planet.”
 </blockquote>
 
 <div style="margin-top:0.8em; margin-bottom:0.8em;">
-  <a href="/files/CV_Shenglai Jin.pdf" target="_blank" 
-     style="display:inline-flex; align-items:center; background-color:#006d77; color:white; 
+  <a href="/files/Shenglai_Jin_CV.pdf" target="_blank" 
+     style="display:inline-flex; align-items:center; background-color:#3a7f6b; color:white; 
             font-weight:600; padding:8px 14px; border-radius:8px; text-decoration:none; 
             box-shadow:0 3px 8px rgba(0,0,0,0.15); transition: all 0.3s ease;">
     📄 <span style="margin-left:8px;">View my CV</span>
