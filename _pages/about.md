@@ -24,7 +24,7 @@ I aim to enhance <em>flexibility</em>, <em>resilience</em>, and <em>efficiency</
 </blockquote>
 
 <div style="margin-top:0.8em; margin-bottom:0.8em;">
-  <a href="/files/Shenglai_Jin_CV.pdf" target="_blank" 
+  <a href="/files/CV_Shenglai Jin.pdf" target="_blank" 
      style="display:inline-flex; align-items:center; background-color:#3a7f6b; color:white; 
             font-weight:600; padding:8px 14px; border-radius:8px; text-decoration:none; 
             box-shadow:0 3px 8px rgba(0,0,0,0.15); transition: all 0.3s ease;">
