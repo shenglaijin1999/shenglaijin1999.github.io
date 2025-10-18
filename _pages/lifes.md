@@ -8,9 +8,7 @@ author_profile: true
 Welcome to my **photo gallery** — a glimpse into my connection with nature and active participation in social events.  
 I believe every meaningful research journey is also a journey of life, and these photos record moments that inspire and ground me.
 
-<blockquote style="font-style: italic; color: #777; text-align: center; margin-top: 20px;">
-  "Every meaningful research journey is also a journey through life."
-</blockquote>
+
 
 <!-- ====== Section 1: Social and Cultural Experiences ====== -->
 <div style="margin-top: 50px;">
@@ -38,6 +36,10 @@ I believe every meaningful research journey is also a journey of life, and these
     </h2>
   </div>
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
+
+<blockquote style="font-style: italic; color: #777; text-align: center; margin-top: 20px;">
+  "In the mosaic of human stories, I listen to find my own note"
+</blockquote>
 
     <!-- 4-Grid Image Layout -->
   <div style="
@@ -91,7 +93,7 @@ I believe every meaningful research journey is also a journey of life, and these
       text-align: center;
       max-width: 80%;
     ">
-    I enjoy walking through the quiet forests and along mountain trails, feeling the craftsmanship of nature and the harmony between tranquility and vitality.
+    In the silent dialogue with ancient peaks and whispering forests, I encounter a world unmapped, and a self unknown.
   </p>
 
 </div>
@@ -121,7 +123,7 @@ I believe every meaningful research journey is also a journey of life, and these
       text-align: center;
       max-width: 80%;
     ">
-    I also love wandering through cities with friends, feeling the rhythm of life and the blend of diverse cultures that shape our shared world.
+    To witness the wonders of the world is sublime; to share its vistas with kindred spirits is to breathe soul into the scenery.
   </p>
 
 </div>
@@ -166,6 +168,19 @@ I believe every meaningful research journey is also a journey of life, and these
     </h2>
   </div>
   <hr style="width: 85%; border: 0; border-top: 1px solid #e2e2e2; margin: 10px auto 25px auto;">
+
+<div style="margin-top: 60px;">
+  <p style="
+      margin: 0 auto 25px auto;
+      color: #444;
+      font-size: 1em;
+      font-style: italic;
+      text-align: center;
+      max-width: 80%;
+    ">
+    A journey of accumulating knowledge, of learning to ask better questions of our world.
+  </p>
+
 
   
 <!-- ======= PHOTO BLOCK 1 ======= -->
