@@ -20,7 +20,7 @@ I aim to enhance <em>flexibility</em>, <em>resilience</em>, and <em>efficiency</
 </p>
 
 <blockquote style="text-align:right; font-style:italic; color:#707070; margin-top:1.5em;">
-“Technology connects systems, but curiosity connects people and the planet.”
+“Technology interlinks systems, but curiosity weaves the neural network that connects humanity to the planet.”
 </blockquote>
 
 <div style="margin-top:0.8em; margin-bottom:0.8em;">
@@ -38,23 +38,15 @@ Beyond research, I enjoy hiking 🥾, exploring natural landscapes 🌲, and imm
 </p>
 
 <blockquote style="text-align:right; font-style:italic; color:#707070; margin-top:1.5em;">
-“Every meaningful research journey is also a journey through life.”
+“Every profound academic quest ultimately returns to a deeper contemplation of life.”
 </blockquote>
-
-<br>
-<hr style="width:50%; margin:auto; border:0; height:1px; background:#cfd8dc;">
-<br>
 
 ## ⚙️ Core Skills and Expertise
 
-<div style="width: 60%; margin: 40px auto;">
+<div style="width: 80%; margin: 40px auto;">
   <img src="/images/gallery/myself.png" 
        alt="Shenglai Jin word cloud"
        style="width: 100%; display: block; margin: 0 auto; border-radius: 14px;
               box-shadow: 0 6px 20px rgba(0,0,0,0.12);
               transition: transform 0.3s ease, filter 0.3s ease;">
 </div>
-
----
-
-**Contact:** [shenglai.jin@outlook.com](mailto:shenglai.jin@outlook.com)
