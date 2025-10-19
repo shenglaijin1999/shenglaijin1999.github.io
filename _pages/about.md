@@ -9,7 +9,7 @@ redirect_from:
 <span style="color:#6c757d; font-style:italic;">Welcome to my homepage!</span>  
 
 <p style="line-height:1.8; margin-top:0.6em;">
-My academic background spans <em>Electrical Engineering</em> and <em>Sustainable Electric Power Engineering & Electromobility</em> at <strong style="color:#0056b3;">Chalmers University of Technology</strong>, with exchange experience at the <strong style="color:#0056b3;">Technical University of Munich</strong>.  
+My academic background spans <em>Renewable Energy System</em> and <em>Electromobility</em> at <strong style="color:#0056b3;">Chalmers University of Technology</strong>, with exchange experience at the <strong style="color:#0056b3;">Technical University of Munich</strong>.  
 </p>
 
 <p style="line-height:1.8; margin-top:0.8em;">
