@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "My Life"
 permalink: /lifes/
 author_profile: true
 ---
